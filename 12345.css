@@ -6205,7 +6205,7 @@ body > * {
   border-top: none !important; }
 
 blockquote {
-  border-left: 20px; }
+  border-left: none; }
 
 .quote-badge {
   background-color: rgba(0, 0, 0, 0.2); }
